@@ -1,0 +1,5 @@
+print("calculate by index")
+print("1 an 1 becomes 11")
+fnum=input("Enter 1st number ")
+snum=input("enter 2nd number ")
+print(fnum[0] + snum[0])
